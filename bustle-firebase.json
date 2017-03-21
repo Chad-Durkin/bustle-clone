@@ -1,0 +1,37 @@
+{    "books": [{
+        "headline": "The Giver, restrospect of literature",
+        "image": "https://static1.squarespace.com/static/5470122de4b04bcdd4867706/t/587d929029687f2d2feca463/1484624551199/",
+        "content": "The Giver, By Lois Lowry",
+        "author": "Chad Durkin",
+        "date": "03-21-2017"
+        }, {
+        "headline": "The Legend of Drizzt series, restrospect of literature",
+        "image": "http://dnd.wizards.com/sites/default/files/media/styles/story_banner/public/images/head-banner/Hero_LegendDrizzt_0.jpg?itok=-PamdMOQ",
+        "content": "The Legend of Drizzt series, By R.A. Salvatore... #1 Homeland, #2 Exile, #3 Sojourn, #4 The Crystal Shard...",
+        "author": "Chad Durkin",
+        "date": "03-21-2017"
+        }, {
+        "headline": "Harry Potter series, restrospect of literature",
+        "image": "http://az616578.vo.msecnd.net/files/2016/09/16/636096651446374356-702844709_harry-potter-play-jk-rowling.jpg",
+        "content": "Harry Potter series, By J.K. Rowling... #1 Harry Potter and the Sorcerer's Stone, #2 Harry Potter and the Chamber of Secrets, #3 Harry Potter and the Prisoner of Azkaban, #4 Harry Potter and the Goblet of Fire, #5 Harry Potter and the Order of the Phoenix, #6 Harry Potter and the Half-Blood Prince, #7 Harry Potter and the Deathly Hallows",
+        "author": "Chad Durkin",
+        "date": "03-21-2017"
+        }],
+    "news": [{
+        "headline": "Cows... yes Cows.. Fly",
+        "image": "http://images.elephantjournal.com/wp-content/uploads/2014/01/when-cows-fly-700x485.png",
+        "content": "Cows fly today, thought you'd never hear that.. huh? But you heard it, today Cows were seen flying through the air",
+        "author": "Chad Durkin",
+        "date": "03-21-2017"
+        }, {
+        "headline": "Oroville dam flooded",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Oroville_dam_aerial.jpg",
+        "content": "For the first time in history, the biggest dam in the United States has a flooding emergency!",
+        "author": "Chad Durkin",
+        "date": "03-21-2017"
+        }],
+    "admins": [{
+        "name": "Chad Durkin",
+        "started": "03-21-2017"
+        }]
+}

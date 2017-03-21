@@ -1,0 +1,18 @@
+<div class="homePage">
+    <div class="top">
+        <h1>Welcome to Chad's Bustle!</h1>
+            <h2>Aunnouncements</h2>
+            <h3>Here will be the announcements</h3>
+    </div>
+
+    <div class="body">
+        <ul class="content">
+            <h2>Content</h2>
+            <ul>
+                {{#each model as |book|}}
+                {{book-tile book=book}}
+                {{/each}}
+            </ul>
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+<ul>
+    {{#if isContentShowing}}
+        <div class="content-header">
+            <div class="content-image">
+                <img src={{book.image}} {{action 'contentHide'}}/>
+            </div>
+            <div class="content-author">
+                <li>{{book.headline}}</li>
+                <li>Author: {{book.author}} Date: {{book.date}}</li>
+            </div>
+        </div>
+        <div class="content-body">
+            <p>{{book.content}}</p>
+        </div>
+    {{else}}
+        <img src={{book.image}} {{action 'contentShow'}}/>
+    {{/if}}
+</ul>
